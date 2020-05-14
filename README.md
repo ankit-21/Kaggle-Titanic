@@ -1,0 +1,2 @@
+# Kaggle-Titanic
+I tried various techniques to check which model worked the best. I tried Logistic Regression, Decision Trees, Random Forest, Gradient Boost, SVM and ANN. The accuracy I achieved for training dataset from these models fluctuated between 81% - 82% and I chose ANN architecture with accuracy in this interval. The Name and the Ticket Number columns were ignored for the computation purposes as they played no significant role. 
